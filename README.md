@@ -1,3 +1,3 @@
 # Мой сайт портфлио
 ### Перейдите по ссылке ниже чтобы посмотреть
-[Перейти на сайт] (https://toxo-hub.github.io/potfolio/)
+[Перейти на сайт](https://toxo-hub.github.io/potfolio/)
